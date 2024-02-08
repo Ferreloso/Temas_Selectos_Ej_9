@@ -32,6 +32,15 @@ body {
     padding: 0 45px 30px 45px;
 }
 
+.listA {
+    grid-area: list;
+    padding: 0 45px 30px 45px;
+    font-family: Assistant;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
 .list__figure {
     height: 100%;
     width: 100%;
